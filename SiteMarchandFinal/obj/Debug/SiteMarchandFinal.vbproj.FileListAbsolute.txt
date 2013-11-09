@@ -1,0 +1,26 @@
+c:\users\nbouho\documents\visual studio 2010\Projects\SiteMarchandFinal\SiteMarchandFinal\bin\SiteMarchandFinal.dll
+c:\users\nbouho\documents\visual studio 2010\Projects\SiteMarchandFinal\SiteMarchandFinal\bin\SiteMarchandFinal.pdb
+c:\users\nbouho\documents\visual studio 2010\Projects\SiteMarchandFinal\SiteMarchandFinal\bin\SiteMarchandFinal.xml
+c:\users\nbouho\documents\visual studio 2010\Projects\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nbouho\documents\visual studio 2010\Projects\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.Resources.resources
+c:\users\nbouho\documents\visual studio 2010\Projects\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\GenerateResource.read.1.tlog
+c:\users\nbouho\documents\visual studio 2010\Projects\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\GenerateResource.write.1.tlog
+c:\users\nbouho\documents\visual studio 2010\Projects\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.dll
+c:\users\nbouho\documents\visual studio 2010\Projects\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.xml
+c:\users\nbouho\documents\visual studio 2010\Projects\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.pdb
+C:\Users\Nico\Desktop\VbFinal\SiteMarchandFinal\SiteMarchandFinal\bin\SiteMarchandFinal.dll
+C:\Users\Nico\Desktop\VbFinal\SiteMarchandFinal\SiteMarchandFinal\bin\SiteMarchandFinal.pdb
+C:\Users\Nico\Desktop\VbFinal\SiteMarchandFinal\SiteMarchandFinal\bin\SiteMarchandFinal.xml
+C:\Users\Nico\Desktop\VbFinal\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.Resources.resources
+C:\Users\Nico\Desktop\VbFinal\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\VbFinal\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.dll
+C:\Users\Nico\Desktop\VbFinal\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.xml
+C:\Users\Nico\Desktop\VbFinal\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.pdb
+C:\Users\Nico\Desktop\projet bordel\VbFinal\SiteMarchandFinal\SiteMarchandFinal\bin\SiteMarchandFinal.dll
+C:\Users\Nico\Desktop\projet bordel\VbFinal\SiteMarchandFinal\SiteMarchandFinal\bin\SiteMarchandFinal.pdb
+C:\Users\Nico\Desktop\projet bordel\VbFinal\SiteMarchandFinal\SiteMarchandFinal\bin\SiteMarchandFinal.xml
+C:\Users\Nico\Desktop\projet bordel\VbFinal\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.Resources.resources
+C:\Users\Nico\Desktop\projet bordel\VbFinal\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\projet bordel\VbFinal\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.dll
+C:\Users\Nico\Desktop\projet bordel\VbFinal\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.xml
+C:\Users\Nico\Desktop\projet bordel\VbFinal\SiteMarchandFinal\SiteMarchandFinal\obj\Debug\SiteMarchandFinal.pdb

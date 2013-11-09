@@ -1,0 +1,1396 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SiteMarchandFinal
+</name>
+</assembly>
+<members>
+<member name="F:SiteMarchandFinal.panier.tabPanier">
+	<summary>
+Contrôle tabPanier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.panier.tabContent">
+	<summary>
+Contrôle tabContent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.panier.prixhorsLivraison">
+	<summary>
+Contrôle prixhorsLivraison.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.panier.prixPayer">
+	<summary>
+Contrôle prixPayer.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.panier.lbprixLivraison">
+	<summary>
+Contrôle lbprixLivraison.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.panier.fraisLivraisons">
+	<summary>
+Contrôle fraisLivraisons.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.panier.prixttxvi">
+	<summary>
+Contrôle prixttxvi.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.panier.prixTotal">
+	<summary>
+Contrôle prixTotal.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.panier.validCommand">
+	<summary>
+Contrôle validCommand.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.panier.sipaniervide">
+	<summary>
+Contrôle sipaniervide.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Createcategories.ListCat">
+	<summary>
+Contrôle ListCat.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Createcategories.LibCat">
+	<summary>
+Contrôle LibCat.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Createcategories.NomCat">
+	<summary>
+Contrôle NomCat.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Createcategories.BtnAddCat">
+	<summary>
+Contrôle BtnAddCat.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Createcategories.LbInfo">
+	<summary>
+Contrôle LbInfo.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Createcategories.dropdownlist">
+	<summary>
+Contrôle dropdownlist.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Createcategories.btnDelete">
+	<summary>
+Contrôle btnDelete.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Createcategories.lbDelete">
+	<summary>
+Contrôle lbDelete.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.HeadContent">
+	<summary>
+Contrôle HeadContent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.menuAdmin">
+	<summary>
+Contrôle menuAdmin.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.siLutiEstCo">
+	<summary>
+Contrôle siLutiEstCo.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.HelloUser">
+	<summary>
+Contrôle HelloUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.monCompte">
+	<summary>
+Contrôle monCompte.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.A3">
+	<summary>
+Contrôle A3.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.A4">
+	<summary>
+Contrôle A4.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.siconnect">
+	<summary>
+Contrôle siconnect.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.HeadLoginStatus">
+	<summary>
+Contrôle HeadLoginStatus.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.A2">
+	<summary>
+Contrôle A2.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.NavigationMenu">
+	<summary>
+Contrôle NavigationMenu.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.MainContent">
+	<summary>
+Contrôle MainContent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Site.listCat">
+	<summary>
+Contrôle listCat.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="M:SiteMarchandFinal.voirproduit.Page_Load(System.Object,System.EventArgs)">
+	<summary>
+  On va intialisé le titre , image , description et description technique du produit
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="F:SiteMarchandFinal.detailmessage.nomPersonne">
+	<summary>
+Contrôle nomPersonne.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailmessage.mailPersonne">
+	<summary>
+Contrôle mailPersonne.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailmessage.dateMessage">
+	<summary>
+Contrôle dateMessage.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailmessage.titreMail">
+	<summary>
+Contrôle titreMail.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailmessage.contentMessage">
+	<summary>
+Contrôle contentMessage.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.nouscontacter.infoMsg">
+	<summary>
+Contrôle infoMsg.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.nouscontacter.TbNom">
+	<summary>
+Contrôle TbNom.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.nouscontacter.tbPre">
+	<summary>
+Contrôle tbPre.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.nouscontacter.tbMail">
+	<summary>
+Contrôle tbMail.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.nouscontacter.tbTitre">
+	<summary>
+Contrôle tbTitre.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.nouscontacter.tbContent">
+	<summary>
+Contrôle tbContent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.nouscontacter.btnSend">
+	<summary>
+Contrôle btnSend.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="M:SiteMarchandFinal.panierProd.#ctor">
+	<summary>
+ Constructeur sans arguments
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SiteMarchandFinal.Register.usernameLabel">
+	<summary>
+Contrôle usernameLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.userName">
+	<summary>
+Contrôle userName.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.emailLabel">
+	<summary>
+Contrôle emailLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.emailUser">
+	<summary>
+Contrôle emailUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.prenomLabel">
+	<summary>
+Contrôle prenomLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.prenomUser">
+	<summary>
+Contrôle prenomUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.nomLabel">
+	<summary>
+Contrôle nomLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.nomUser">
+	<summary>
+Contrôle nomUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.adressLabel">
+	<summary>
+Contrôle adressLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.adressUser">
+	<summary>
+Contrôle adressUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.villeLabel">
+	<summary>
+Contrôle villeLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.villeUser">
+	<summary>
+Contrôle villeUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.cpLabel">
+	<summary>
+Contrôle cpLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.cpUser">
+	<summary>
+Contrôle cpUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.pwLabel">
+	<summary>
+Contrôle pwLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.pwUser">
+	<summary>
+Contrôle pwUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.pw2Label">
+	<summary>
+Contrôle pw2Label.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.pwUser2">
+	<summary>
+Contrôle pwUser2.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.lbError">
+	<summary>
+Contrôle lbError.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Register.btnEnvoie">
+	<summary>
+Contrôle btnEnvoie.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.emailLabel">
+	<summary>
+Contrôle emailLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.tbemailUser">
+	<summary>
+Contrôle tbemailUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.prenomLabel">
+	<summary>
+Contrôle prenomLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.tbprenomUser">
+	<summary>
+Contrôle tbprenomUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.nomLabel">
+	<summary>
+Contrôle nomLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.tbnomUser">
+	<summary>
+Contrôle tbnomUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.adressLabel">
+	<summary>
+Contrôle adressLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.tbadressUser">
+	<summary>
+Contrôle tbadressUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.villeLabel">
+	<summary>
+Contrôle villeLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.tbvilleUser">
+	<summary>
+Contrôle tbvilleUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.cpLabel">
+	<summary>
+Contrôle cpLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.tbcpUser">
+	<summary>
+Contrôle tbcpUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.pwLabel">
+	<summary>
+Contrôle pwLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.tbpwUser">
+	<summary>
+Contrôle tbpwUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.pw2Label">
+	<summary>
+Contrôle pw2Label.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.tbpwUser2">
+	<summary>
+Contrôle tbpwUser2.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.lbError">
+	<summary>
+Contrôle lbError.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifiermesinfo.btnModify">
+	<summary>
+Contrôle btnModify.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="M:SiteMarchandFinal.AccountManager.checkExistusers(System.String)">
+	<summary>
+ Permet de regarder si l'utilisateur existe déja
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.AccountManager.checkConnectUsers(System.String,System.String)">
+	<summary>
+ Permet de connecter l'utilisateur si il existe
+ </summary>
+	<param name="usersLogin"></param>
+	<param name="usersPassword"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.AccountManager.checkAdminUsers(System.String)">
+	<summary>
+  verifie si l'utilisateur est un administrateur
+ </summary>
+	<param name="usersLogin"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:SiteMarchandFinal.AccountManager">
+	<summary>
+ Classe statique permettant l'ajout d'utilisateur, ect ...
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SiteMarchandFinal.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:SiteMarchandFinal.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="T:SiteMarchandFinal.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member><member name="F:SiteMarchandFinal.SupressionProduit.dropdownlist">
+	<summary>
+Contrôle dropdownlist.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.SupressionProduit.triList">
+	<summary>
+Contrôle triList.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.SupressionProduit.lbSup">
+	<summary>
+Contrôle lbSup.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.SupressionProduit.dropDownSup">
+	<summary>
+Contrôle dropDownSup.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.SupressionProduit.btnSupProd">
+	<summary>
+Contrôle btnSupProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.SupressionProduit.lbError">
+	<summary>
+Contrôle lbError.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.listmessage.tableContent">
+	<summary>
+Contrôle tableContent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal._Default.contentMenu">
+	<summary>
+Contrôle contentMenu.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.voirproduit.validPanier">
+	<summary>
+Contrôle validPanier.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.voirproduit.titreProduit">
+	<summary>
+Contrôle titreProduit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.voirproduit.photoProduit">
+	<summary>
+Contrôle photoProduit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.voirproduit.prixProduit">
+	<summary>
+Contrôle prixProduit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.voirproduit.prixProdTB">
+	<summary>
+Contrôle prixProdTB.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.voirproduit.btnProd">
+	<summary>
+Contrôle btnProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.voirproduit.descrProduit">
+	<summary>
+Contrôle descrProduit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.voirproduit.descrTechProduit">
+	<summary>
+Contrôle descrTechProduit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailcommande.titrePage">
+	<summary>
+Contrôle titrePage.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailcommande.tabContent">
+	<summary>
+Contrôle tabContent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailcommande.nomPers">
+	<summary>
+Contrôle nomPers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailcommande.adrPers">
+	<summary>
+Contrôle adrPers.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailcommande.lbprixHorsLivraison">
+	<summary>
+Contrôle lbprixHorsLivraison.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailcommande.lbPrixLivraison">
+	<summary>
+Contrôle lbPrixLivraison.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.detailcommande.lbPrixTotal">
+	<summary>
+Contrôle lbPrixTotal.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.checkExistCategorie(SiteMarchandFinal.Categorie)">
+	<summary>
+ Verifie si la categorie a ajouté existe
+ </summary>
+	<param name="cat"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.DeleteCategorie(SiteMarchandFinal.Categorie)">
+	<summary>
+ Permet de supprimer une catégorie
+ </summary>
+	<param name="cat"></param>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.GetProducts">
+	<summary>
+ Recuperes les produits et les catégories dans une liste"
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.getInfoProduct(System.String)">
+	<summary>
+ recupère les informations des produits
+ </summary>
+	<param name="idProd"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.addProductPanier(SiteMarchandFinal.panierProd)">
+	<summary>
+ Ajoute un produit au panier
+ </summary>
+	<param name="panierProd"></param>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.ajoutCommandeProd(SiteMarchandFinal.panierProd,System.Int32,System.Int32,System.String)">
+	<summary>
+ Ajout d'une commande 2
+ </summary>
+	<param name="prod"></param>
+	<param name="userLogin"></param>
+	<param name="qte"></param>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.getListCommand(System.String)">
+	<summary>
+ recupère sous forme de liste toutes les commandes pour une personne
+ </summary>
+	<param name="userLogin"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.getListCommandAdmin(System.String)">
+	<summary>
+ recupere la liste de toute les commandes passés
+ </summary>
+	<param name="userLogin"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.getLibStat(System.Int32)">
+	<summary>
+ Recupère le libellé d'un statut en fonction de son id
+ </summary>
+	<param name="idStatut"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.getListProdCommand(System.Int32)">
+	<summary>
+ recupère la liste des produits associés a une commande
+ </summary>
+	<param name="num_commande"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.getStatut(System.Int32)">
+	<summary>
+ Recupere le libellé du statut d'une commande
+ </summary>
+	<param name="numCommande"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.getAllLibStatut">
+	<summary>
+ Recupere tous les libellés des statuts existant
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.getIdStatut(System.String)">
+	<summary>
+ recupère l'id du statut en fonction de son libellé
+ </summary>
+	<param name="libStatut"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.updateLib(System.Int32,System.String)">
+	<summary>
+ Permet de modifier l'avancement d'une commande
+ </summary>
+	<param name="numCommade"></param>
+	<param name="newIdStatut"></param>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.getInfoUsers(System.String)">
+	<summary>
+ recupere les informations relatif a l'utilisateur
+ </summary>
+	<param name="userLogin"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.ProductManager.getLoginUsers(System.Int32)">
+	<summary>
+ recupere le login de l'utilisateur en fonction de l'id de la commande
+ </summary>
+	<param name="idCommande"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.messageManager.getAllMessage">
+	<summary>
+ recupère la liste des tous les messages
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.messageManager.addMessage(SiteMarchandFinal.Message)">
+	<summary>
+ Fonction permettant d'ajouter un message en base de donnée
+ </summary>
+	<param name="msg"></param>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.messageManager.setReadMsg(System.Int32)">
+	<summary>
+ Permet de changer la visibilité d'un message
+ </summary>
+	<param name="idMessage"></param>
+	<remarks></remarks>
+</member><member name="F:SiteMarchandFinal.modifierStatut.statutLib">
+	<summary>
+Contrôle statutLib.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifierStatut.dropdowlist">
+	<summary>
+Contrôle dropdowlist.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.modifierStatut.btnChange">
+	<summary>
+Contrôle btnChange.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.lbError">
+	<summary>
+Contrôle lbError.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.chooseCat">
+	<summary>
+Contrôle chooseCat.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.dropdownlist">
+	<summary>
+Contrôle dropdownlist.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.pLib">
+	<summary>
+Contrôle pLib.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.ProduitLib">
+	<summary>
+Contrôle ProduitLib.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.mProd">
+	<summary>
+Contrôle mProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.MarqueProd">
+	<summary>
+Contrôle MarqueProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.pProd">
+	<summary>
+Contrôle pProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.PrixProd">
+	<summary>
+Contrôle PrixProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.dProd">
+	<summary>
+Contrôle dProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.DescrProd">
+	<summary>
+Contrôle DescrProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.dtProd">
+	<summary>
+Contrôle dtProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.DescrTechProd">
+	<summary>
+Contrôle DescrTechProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.sendImage">
+	<summary>
+Contrôle sendImage.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.fileUpload">
+	<summary>
+Contrôle fileUpload.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.AjoutProduits.addProduct">
+	<summary>
+Contrôle addProduct.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="P:SiteMarchandFinal.My.MyWebExtension.Application">
+	<summary>
+ Retourne des informations sur l'application actuelle.
+ </summary>
+</member><member name="P:SiteMarchandFinal.My.MyWebExtension.Computer">
+	<summary>
+ Retourne les informations relatives à l'ordinateur hôte.
+ </summary>
+</member><member name="P:SiteMarchandFinal.My.MyWebExtension.User">
+	<summary>
+ Retourne des informations pour l'utilisateur Web actuel.
+ </summary>
+</member><member name="P:SiteMarchandFinal.My.MyWebExtension.Request">
+	<summary>
+ Retourne l'objet Request.
+ </summary>
+</member><member name="P:SiteMarchandFinal.My.MyWebExtension.Response">
+	<summary>
+ Retourne l'objet Response.
+ </summary>
+</member><member name="P:SiteMarchandFinal.My.MyWebExtension.Log">
+	<summary>
+ Retourne l'objet de journal Asp.
+ </summary>
+</member><member name="P:SiteMarchandFinal.My.MyWebExtension.WebServices">
+	<summary>
+ Fournit un accès au WebServices ajoutés à ce projet.
+ </summary>
+</member><member name="T:SiteMarchandFinal.My.MyWebExtension">
+	<summary>
+ Module utilisé pour définir les propriétés qui sont disponibles dans l'espace de noms My pour les projets Web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SiteMarchandFinal.WebForm1.titreCad">
+	<summary>
+Contrôle titreCad.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.WebForm1.listeProd">
+	<summary>
+Contrôle listeProd.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.apropos.btnp">
+	<summary>
+Contrôle btnp.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Login.usernameLabel">
+	<summary>
+Contrôle usernameLabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Login.userName">
+	<summary>
+Contrôle userName.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Login.passwordNamelabel">
+	<summary>
+Contrôle passwordNamelabel.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Login.userPaassword">
+	<summary>
+Contrôle userPaassword.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Login.lbError">
+	<summary>
+Contrôle lbError.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Login.btnSubmit">
+	<summary>
+Contrôle btnSubmit.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.DatabaseHelper._connection">
+	<summary>
+ Objet de connexion à la base de données
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.DatabaseHelper.#ctor">
+	<summary>
+ Constructeur par defaut
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.DatabaseHelper.ExecuteSQLQuery(System.String)">
+	<summary>
+ Exécute une requete SQL passée en argument
+ et retourne le résultat dans un DataTable
+ </summary>
+	<param name="query"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:SiteMarchandFinal.DatabaseHelper">
+	<summary>
+ Classe permettant de gérer tout ce qui concerne 
+ la connexion à la base de données
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SiteMarchandFinal.derniereCommande.contenTab">
+	<summary>
+Contrôle contenTab.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.derniereCommandeAdmin.contenTab">
+	<summary>
+Contrôle contenTab.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Gestionproduits.dropdownlist">
+	<summary>
+Contrôle dropdownlist.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Gestionproduits.btnVoirList">
+	<summary>
+Contrôle btnVoirList.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.Gestionproduits.listProduits">
+	<summary>
+Contrôle listProduits.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:SiteMarchandFinal.StaticDeclarations.dbHelper">
+	<summary>
+  Objet de connexion à la base de données
+ </summary>
+	<remarks>Permet d'executer des requetes SQL sur la base de données</remarks>
+</member><member name="F:SiteMarchandFinal.StaticDeclarations.acManager">
+	<summary>
+ Objet de gestion des utilisateurs
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SiteMarchandFinal.StaticDeclarations.prManager">
+	<summary>
+ Obejt de gestion des produits
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SiteMarchandFinal.StaticDeclarations.msgManager">
+	<summary>
+ Objet de gestion des messages
+ </summary>
+	<remarks></remarks>
+</member><member name="T:SiteMarchandFinal.StaticDeclarations">
+	<summary>
+ Classe statique qui contient l'ensemble des objets
+ statiques et publiques
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SiteMarchandFinal.Categorie._idCat">
+	<summary>
+ Stock l'id de la caétégorie
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SiteMarchandFinal.Categorie._libCat">
+	<summary>
+ Stock le libellé de la catégorie
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SiteMarchandFinal.Categorie.LibCat">
+	<summary>
+ accesseur du libellé de la catégorie
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:SiteMarchandFinal.Categorie.IdCat">
+	<summary>
+ Accesseur de idCat
+ 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SiteMarchandFinal.Categorie.#ctor">
+	<summary>
+ Constructeur sans arguments
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,87 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="SiteMarchandFinal.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="~/Styles/Sites.css" rel="stylesheet" type="text/css" />
+    <link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen"/>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="~/bootstreap/js/bootstrap.min.js"></script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+        <asp:Label ID="menuAdmin" runat="server" Visible="false">
+        <div class="topbar" style="background-color:#333333;" >
+            <div class="fill">
+                <div class="container" ">
+                    <h3 style="float:left;"> Administration</h3>
+                    <ul style="z-index:auto;list-style-type:none">
+                        <li style="margin-left : 20px;float:left;margin-top:20px;"> <a href="Createcategories.aspx" style="display:block;color:#f18423;">Gestion des catégories</a></li>
+                        <li style="margin-left : 20px;margin-top:20px;float:left; "> <a href="AjoutProduits.aspx" style="display:block;color:#f18423;">Ajout d'un produit</a> </li>
+                        <li style="margin-left : 20px;margin-top:20px;float:left; "> <a href="SupressionProduit.aspx" style="display:block;color:#f18423;">Supprimer un produit</a> </li>
+                        <li style="margin-left : 20px;margin-top:20px;float:left; "> <a href="derniereCommandeAdmin.aspx" style="display:block;color:#f18423;">Gestion des commandes</a> </li>
+                        <li style="margin-left : 20px;margin-top:20px;float:left; "> <a href="listmessage.aspx" style="display:block;color:#f18423;">Mes messages</a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        </asp:Label>
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <img src="images/titre.png" alt="Tennis shop" />
+            </div>
+            <div class="loginDisplay">
+ <div id="siLutiEstCo" runat="server" style="margin-right:-40px;margin-left:35px;"><asp:Label id="HelloUser" runat="server" Visible=false style="color:#f18423;" > </asp:Label>  <a href="derniereCommande.aspx" id="monCompte" runat="server" visible="false" style="color:#f18423" > | <i class="icon-list-alt"></i> Mon compte</a> <a href="Default.aspx" id ="A3" runat="server"  visible="false" style="color:#f18423"> | <i class="icon-off"></i> Se déconnecter | </a> <a href="panier.aspx" id="A4" runat="server" visible="false" style="color:#f18423"><i class="icon-shopping-cart"></i> Panier</a> </div>
+               <div style="margin-left:170px;"> <asp:Label id="siconnect" runat="server" AssociatedControlID="siConnect"><a href="Login.aspx" ID="HeadLoginStatus" runat="server"> <i class="icon-user"></i> Se connecter |</a> <a href="Register.aspx" ID="A2" runat="server" style="color:#f18423;"> <i class="icon-pencil"></i> S'inscrire </a></asp:Label>  </div>  
+               
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text=" <i class='icon-home'></i> Accueil" />
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+
+        <hr style="width:943px;" />
+        <div class="main">
+
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+
+    </form>
+  
+</body>
+
+    <footer>
+        <div class="row">
+            <div class="span4" style="margin-top:80px;">
+                <p> T<span style="color:#f18423;">ennis</span>'S<span style="color:#f18423;">hop</span> - Copyright 2013 - Nicolas.B </p>
+            </div>
+            <div class="span4">
+                <h4> Liste des catégories :</h4>
+                <ul class="breadcrumb" style="text-decoration:none;">
+                    <asp:label id="listCat" runat="server"></asp:label>
+                </ul>
+            </div>
+            <div class="span4" style="text-decoration:none;">
+                <h4>Liens utiles</h4>
+                <a href="Default.aspx" style="color:#333333">Accueil</a> <br />
+                <a href="nouscontacter.aspx" style="color:#333333">Contact</a> <br />
+                <a href="About.aspx" style="color:#333333">A propos</a> <br />
+            </div>
+        </div>
+    </footer>
+
+</html>

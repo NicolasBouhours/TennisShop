@@ -1,0 +1,47 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="SiteMarchandFinal.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    Mon site marchand
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                        <asp:Label id="HelloUser" runat="server" Visible=false></asp:Label>
+                         <asp:Label id="siconnect" runat="server" AssociatedControlID="siConnect"><a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">[ Se connecter ]</a></asp:Label> 
+                         <asp:Label id="siDisconnect" runat="server" AssociatedControlID="siDisconnect" Visible=false><a href="Default.aspx" id ="headlog" runat="server">[ Se déconnecter ] </a></asp:Label>
+                        <asp:Label id="register" runat="server"> <a href="~/Account/Register.aspx" ID="A1" runat="server">[ S'inscrire ]</a> </asp:Label>
+                    <asp:Label ID="panierUser" runat="server" AssociatedControlID="panier" Visible=false><a href="panier.aspx" id="panier" runat="server"> Panier </a>  </asp:Label>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Accueil" />
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

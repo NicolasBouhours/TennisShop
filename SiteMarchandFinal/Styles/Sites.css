@@ -1,0 +1,157 @@
+﻿body {
+    font-family:'Arial';
+    background-color: #ebe3e2;
+}
+
+.header {
+    display:inline-block;
+}
+.testfooter {
+    color:blue;
+}
+
+footer {
+    border-top: 2px solid #f18423;
+    width:100%;
+    height:100px;
+    background-color:#eeeeee;
+    margin:0px auto 0px auto;
+    width:950px;
+}
+
+.loginDisplay {
+    display:inline-block;
+    text-decoration:none;
+    margin-right: -150px;
+    vertical-align:top;
+    margin-top: 10px;
+    color:#F18423;
+}
+
+.page {
+    width:950px;
+    background-color: #fff;
+    margin:0px auto 0px auto;
+}
+
+.main {
+    background-color: #fff;
+    min-height: 432px;
+}
+
+.title {
+    display:inline-block;
+}
+
+a#HeadLoginStatus, a#A1, a#headlog, a#panier {
+    text-decoration:none;
+    color:#F18423;
+
+}
+
+.connectUser {
+    color: #ebe3e2;
+}
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink
+{
+    background-color:#fff;
+    margin-top: -30px;
+}
+
+div.menu
+{
+    padding: 4px 0px 4px 8px;
+    margin-left : 150px;
+    margin-top: 0px;
+}
+
+div.menu ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+
+div.menu ul li a, div.menu ul li a:visited
+{
+    background-color: #fff;
+    color: #b6b7bc;
+    display: block;
+    line-height: 1.35em;
+    padding: 4px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+    border-left: 2px solid #f18423;
+    opacity: 0.9;
+}
+
+div.menu ul li a:hover
+{
+    border-bottom: 4px solid #f18423;
+    text-decoration:none;
+    opacity: 1;
+    color: #f18423;
+}
+
+div.menu ul li a:active
+{
+    background-color: #465c71;
+    color: #cfdbe6;
+    text-decoration: none;
+}
+
+h1 {
+}
+
+h2 {
+    font-family:Arial;
+    color: #f18423;
+    letter-spacing: +1px;
+    height: 22px;
+    margin-left: 30px;
+    text-transform:capitalize;
+}
+
+h3 {
+    color: #CCC4C7;
+    text-transform:uppercase;
+    text-decoration:none;
+}
+
+a {
+    text-decoration:none;
+    color:#f18423;
+}
+hr {
+    color: red;
+    height: 1px;
+    width: 960px;
+    text-align:center;
+    background-color:#f18423;
+    margin-top : 30px;
+    margin-bottom : 30px;
+}
+
+div.blocprod {
+    background-color:#fff;
+}
+
+.listProduct {
+    background-color: #fff;
+}
+
+.prixProduit {
+    display:inline-block;
+    color:blue;
+}
+
+.nicoLa {
+    width:400px;
+    color:red;
+    float:right;
+}
+
